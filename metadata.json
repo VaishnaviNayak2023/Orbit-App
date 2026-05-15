@@ -1,0 +1,9 @@
+{
+  "name": "Orbit",
+  "description": "Student wellness AI companion with mood tracking, daily missions, and an anonymous support hub.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
